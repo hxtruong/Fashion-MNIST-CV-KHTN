@@ -1,0 +1,6 @@
+Link github: https://github.com/hxtruong/Fashion-MNIST-CV-KHTN
+Hướng dẫn:
+	Chạy file Fashion-MNIST.ipynb bằng colab google.	
+	Hoặc chạy file Fashion-MNIST.py (chưa test).
+Link bài tập:
+	https://colab.research.google.com/drive/1ZbfVoxFvgCslfiBMt9DGQ8JBRj6HZMui
